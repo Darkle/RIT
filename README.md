@@ -1,2 +1,1 @@
-# RIT
-Reddit Image Tagger
+# RIT - Reddit Image Tagger
