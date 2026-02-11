@@ -1,11 +1,20 @@
 [tools]
+android-sdk = "1.0"
 erlang = "28.3.1"
 gleam = "1.14.0"
+node = "25.2.1"
+npm = "11.7.0"
 
 [env]
 _.path = "./node_modules/.bin"
+CAPACITOR_ANDROID_STUDIO_PATH = "/home/coop/.local/share/JetBrains/Toolbox/apps/android-studio/bin/studio.sh"
 
 [settings]
 env_file = ""
 
 [tasks]
+start = "vite"
+android = "cap open android"
+sync = "cap sync"
+build = "vite build"
+preview = "vite preview"

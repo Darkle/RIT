@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RIT</string>
+    <string name="title_activity_main">RIT</string>
+    <string name="package_name">top.coopcoding.rit</string>
+    <string name="custom_url_scheme">top.coopcoding.rit</string>
+</resources>

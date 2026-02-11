@@ -2,3 +2,10 @@
 *.ez
 /build
 erl_crash.dump
+.idea/
+node_modules/
+.vscode/
+*.map
+.DS_Store
+.sourcemaps
+dist/

@@ -1,0 +1,10 @@
+{
+  "appId": "top.coopcoding.rit",
+  "appName": "RIT",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
